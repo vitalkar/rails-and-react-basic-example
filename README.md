@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#start the server with: foreman start -f Procfile.dev-server
